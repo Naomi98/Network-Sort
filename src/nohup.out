@@ -1,0 +1,40 @@
+My server Id: 3
+My server Id: 0
+My server Id: 2
+My server Id: 1
+Got the following server configs: {[{0 localhost 8080} {1 localhost 8081} {2 localhost 8082} {3 localhost 8083}]}
+Got the following server configs: {[{0 localhost 8080} {1 localhost 8081} {2 localhost 8082} {3 localhost 8083}]}
+Got the following server configs: {[{0 localhost 8080} {1 localhost 8081} {2 localhost 8082} {3 localhost 8083}]}
+Got the following server configs: {[{0 localhost 8080} {1 localhost 8081} {2 localhost 8082} {3 localhost 8083}]}
+Starting tcp server on localhost:8081
+Starting tcp server on localhost:8083
+Starting tcp server on localhost:8082
+Starting tcp server on localhost:8080
+Listener started
+Listener started
+Listener started
+Listener started
+Connections accepted
+Connections accepted
+Connections accepted
+Connections accepted
+Connections accepted
+Connections accepted
+Connections accepted
+Connections accepted
+Connections accepted
+Connections accepted
+Mesh Completed
+Connections accepted
+Connections accepted
+Connections accepted
+Mesh Completed
+Connections accepted
+Mesh Completed
+Mesh Completed
+Connections accepted
+Connections accepted
+2023/01/26 16:36:00 netsort.go:242: Sorting testcases/testcase1/input-2.dat to testcases/testcase1/output-2.dat
+2023/01/26 16:36:00 netsort.go:242: Sorting testcases/testcase1/input-1.dat to testcases/testcase1/output-1.dat
+2023/01/26 16:36:00 netsort.go:242: Sorting testcases/testcase1/input-0.dat to testcases/testcase1/output-0.dat
+2023/01/26 16:36:00 netsort.go:242: Sorting testcases/testcase1/input-3.dat to testcases/testcase1/output-3.dat
